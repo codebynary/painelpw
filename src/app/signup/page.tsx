@@ -1,6 +1,7 @@
 import { GalleryVerticalEnd } from "lucide-react"
 import Image from "next/image"
 import bgImage from "@/assets/img/bg.webp"
+import bgImage2 from "@/assets/img/bg.jpg"
 
 import { SignupForm } from "@/components/signup-form"
 
@@ -24,10 +25,10 @@ export default function SignupPage() {
       </div>
       <div className="bg-muted relative hidden lg:block">
         <Image
-          src={bgImage.src}
+          src={bgImage2.src}
           alt="Background Image"
-          width={bgImage.width}
-          height={bgImage.height}
+          width={bgImage2.width}
+          height={bgImage2.height}
           className="absolute inset-0 h-full w-full object-cover dark:brightness-[0.6] dark:grayscale-[0.5]"
         />
       </div>
