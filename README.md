@@ -144,7 +144,7 @@ my-app/
 
 Assista ao tutorial para acompanhar passo a passo do projeto:
 
-➡️ **[link da sua video aula aqui]**
+➡️ **[Assistir Video Aula](https://youtu.be/81ypFlNZ4t4)**
 
 ---
 
