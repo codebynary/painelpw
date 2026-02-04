@@ -1,5 +1,11 @@
 # 🎥 Página de Registro – Video Aula `Perfect World`
 
+![Standard](https://img.shields.io/badge/standard-pending_compliance-yellow?style=for-the-badge)
+
+> [!WARNING]
+> **Aguardando Padronização Antigravity**: Este projeto deve ser migrado para arquitetura "Docker Dev / Native Prod".
+> Consulte: `.agent/PROJECT_STATUS.md` e a tarefa associada.
+
 **Descrição**
 
 Esta é a página de registro que eu ensinei a criar na minha **video aula** sobre desenvolvimento web com **Next.js** (incluindo estrutura de diretórios e principais arquivos). O projeto mostra como configurar a pasta, criar rotas, e organizar o frontend e backend para a página de registro com estilo gaming minimalista.
